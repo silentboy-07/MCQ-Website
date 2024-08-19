@@ -14,6 +14,9 @@ Easy Navigation: Simple and intuitive navigation for users to switch between cat
 Technologies Used
 
 HTML: Markup language used for structuring the content on the website.
+
 CSS: Stylesheet language used for designing the layout and presentation.
+
 JavaScript: Programming language used for creating interactive elements and handling logic.
+
 Bootstrap: Framework used for building responsive and mobile-first designs.
