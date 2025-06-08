@@ -1,22 +1,42 @@
-MCQ Website
+# 📝 Responsive MCQ Website
 
-Overview
+Welcome to the **Responsive MCQ Website** — a web-based platform designed to help users prepare for competitive exams like **UPSC**, **NDA**, and more through interactive multiple-choice questions.
 
-This project is a responsive Multiple Choice Questions (MCQ) website that provides users with practice questions on various topics such as UPSC, NDA, and other competitive exams. The website is built using HTML, CSS, JavaScript, and Bootstrap, ensuring a seamless experience across different devices, including mobile phones, tablets, and PCs.
+---
 
-Features
+## 📌 Overview
 
-Responsive Design: The website is fully responsive, adapting to various screen sizes for optimal viewing on mobile, tablet, and desktop devices.
-Multiple Categories: Users can choose from different categories like UPSC Exam, NDA Exam, and more, to practice MCQs.
-Interactive Interface: Engaging user interface with real-time feedback on selected answers.
-Easy Navigation: Simple and intuitive navigation for users to switch between categories and view results.
+This project is a responsive, user-friendly MCQ website developed with a focus on accessibility and seamless user experience across devices. It's ideal for students preparing for competitive exams.
 
-Technologies Used
+Users can practice subject-wise MCQs, receive instant feedback on their answers, and track their performance.
 
-HTML: Markup language used for structuring the content on the website.
+---
 
-CSS: Stylesheet language used for designing the layout and presentation.
+## ✨ Features
 
-JavaScript: Programming language used for creating interactive elements and handling logic.
+- ✅ **Responsive Design**  
+  Optimized for all screen sizes—mobile, tablet, and desktop.
 
-Bootstrap: Framework used for building responsive and mobile-first designs.
+- 📚 **Multiple Categories**  
+  Includes categories like **UPSC**, **NDA**, and more for diverse exam preparation.
+
+- 🧠 **Interactive Interface**  
+  Real-time feedback after each answer to enhance learning.
+
+- 🔄 **Easy Navigation**  
+  Smooth transitions between categories and question sets.
+
+---
+
+## 🔧 Tech Stack
+
+- **HTML** – Structure and layout  
+- **CSS** – Styling and visual presentation  
+- **JavaScript** – Logic and interactivity  
+- **Bootstrap** – Responsive design framework
+
+---
+
+![1](https://github.com/user-attachments/assets/04dc6cf5-cdc8-4260-947a-2a10cd276551)
+
+
